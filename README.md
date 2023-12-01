@@ -43,9 +43,14 @@
      ```
      cd threecardmonte
      ```
-   - Запустите игру с помощью команды:
+   - Запустите игру на выбранном языке с помощью команды:
+     **Русский язык**
      ```
-     python threecardmonte.py
+     python threecardmonte_ru.py
+     ```
+     **Английский язык**
+     ```
+     python threecardmonte_eng.py
      ```
 
 ## Особенности игры
