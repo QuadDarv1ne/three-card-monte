@@ -35,13 +35,13 @@
 2. **Клонируйте репозиторий:**
    - Используйте команду Git для клонирования репозитория на вашем компьютере:
      ```
-     git clone https://github.com/yourusername/threecardmonte.git
+     git clone https://github.com/QuadDarv1ne/three-card-monte.git
      ```
 
 3. **Запустите игру:**
    - Перейдите в каталог с игрой:
      ```
-     cd threecardmonte
+     cd three-card-monte
      ```
    - Запустите игру на выбранном языке с помощью команды:
 
